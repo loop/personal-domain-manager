@@ -1,4 +1,4 @@
-personal-domain-manager
+# personal-domain-manager
 =====================
 A personal domain manager for you to keep track of those internet web name things.
 
@@ -8,3 +8,7 @@ A personal domain manager for you to keep track of those internet web name thing
 4. Import database.sql.
 5. Edit includes/configs/database_config.php and change the values.
 6. Edit includes/configs/config_general.php and change the values (admin username and password can be changed from here).
+
+## Open Source License
+
+Released under the MIT public license.
